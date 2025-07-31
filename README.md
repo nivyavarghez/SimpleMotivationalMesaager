@@ -31,14 +31,14 @@ This app is a starting point for learning **React.js**. It’s my very first ste
 ## 🗂️ Folder Structure
 
 mood-message/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.js
-│ ├── index.js
-│ └── ... (components and styles)
-├── package.json
-└── README.md
+ public/
+ index.html
+ src/
+ App.js
+ index.js
+-------------(components and styles)--------
+ package.json
+ README.md
 
 ---
 
